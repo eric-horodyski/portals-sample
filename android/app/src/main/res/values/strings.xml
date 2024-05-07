@@ -1,5 +1,3 @@
 <resources>
-    <string name="app_name">Jobsync</string>
-    <string name="title_activity_login">LoginActivity</string>
-    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="app_name">Sample Portal</string>
 </resources>
