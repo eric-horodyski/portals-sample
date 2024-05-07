@@ -1,0 +1,53 @@
+{
+  "categories": [
+    {
+      "label": "Pending",
+      "total": 8
+    },
+    {
+      "label": "Assigned",
+      "total": 12
+    },
+    {
+      "label": "Complete",
+      "total": 22
+    }
+  ],
+  "tasks": [
+    {
+      "id": "324ec2ca-e972-4de7-a1a9-f056aadbd4a5",
+      "userId": "ae473c77-16a7-48a7-909c-45ca02990839",
+      "category": "Assigned",
+      "title": "Website Launch",
+      "percentComplete": 20
+    },
+    {
+      "id": "4c07121e-14b4-47f9-9930-22b266c56247",
+      "userId": "ae473c77-16a7-48a7-909c-45ca02990839",
+      "category": "Complete",
+      "title": "Create New Page",
+      "percentComplete": 100
+    },
+    {
+      "id": "cd38c169-e3e4-47bd-a5b9-a8a4c6d62c3a",
+      "userId": "ae473c77-16a7-48a7-909c-45ca02990839",
+      "category": "Pending",
+      "title": "Proofread Copy",
+      "percentComplete": 0
+    },
+    {
+      "id": "cd38c169-e3e4-47bd-a5b9-a8a4c6d62c3b",
+      "userId": "ae473c77-16a7-48a7-909c-45ca02990839",
+      "category": "Complete",
+      "title": "User Authentication",
+      "percentComplete": 100
+    },
+    {
+      "id": "cd38c169-e3e4-47bd-a5b9-a8a4c6d62c3c",
+      "userId": "ae473c77-16a7-48a7-909c-45ca02990839",
+      "category": "Assigned",
+      "title": "Payment Gateways",
+      "percentComplete": 63
+    }
+  ]
+}

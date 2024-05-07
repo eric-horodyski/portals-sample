@@ -1,0 +1,32 @@
+[
+  {
+    "id": "5a7e4ff4-7f96-48ae-b8ac-62d66807c290",
+    "userId": "ae473c77-16a7-48a7-909c-45ca02990839",
+    "minutesWorked": 480
+  },
+  {
+    "id": "542df843-1548-45d4-9ddc-d5b34fdc8eb1",
+    "userId": "ae473c77-16a7-48a7-909c-45ca02990839",
+    "minutesWorked": 510
+  },
+  {
+    "id": "4674e120-0efb-4559-90e6-86e445fbe4c4",
+    "userId": "ae473c77-16a7-48a7-909c-45ca02990839",
+    "minutesWorked": 480
+  },
+  {
+    "id": "9a0d7300-b631-4c66-b7ae-d477571deece",
+    "userId": "ae473c77-16a7-48a7-909c-45ca02990839",
+    "minutesWorked": 600
+  },
+  {
+    "id": "4252edbf-7f0e-45c9-8bdb-b37f1bf23953",
+    "userId": "ae473c77-16a7-48a7-909c-45ca02990839",
+    "minutesWorked": 540
+  },
+  {
+    "id": "0c53aab0-6ad1-4678-85e3-bf5fcd2ea6e5",
+    "userId": "ae473c77-16a7-48a7-909c-45ca02990839",
+    "minutesWorked": 480
+  }
+]
